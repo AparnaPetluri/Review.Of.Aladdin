@@ -1,5 +1,4 @@
 # A Review of Aladdin
-<!DOCTYPEhtml>
 <html>
 <body>
 
