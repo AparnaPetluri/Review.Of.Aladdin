@@ -11,7 +11,6 @@
 <h2> The Worst of Aladdin </h2>
 <p> While <strong> Aladdin </strong> is classic, it does have certain controversial and wrong aspects to it. <strong> Aladdin </strong> is a middle eastern folk tale that dates back to at least the 10th century. It derives from the story from the <strong> Arabian Nights </strong>. However, Disney added different cultural aspects from other areas in the world to the story to romanticize it and this causes lots of confusion for viewers. Its origins are hard to pin down, as the versions of the tale are found in North African, Arabic, Turkish, Persian, Indian cultures. In addition, it has a weak Jafar character in the newer version of the movie. As a character, Aladdin is reliant on Jafar to move his story along as it's Jafar who must convince Aladdin to enter the cave of wonders that his prize will be worth all the effort and commitment to getting the lamp. You can learn more about this <a href="https://screenrant.com/aladdin-movie-2019-jafar-bad-problem/">here</a> on this website. 
 </p>
-
 <img src="https://www.crescentavalleyweekly.com/wp-content/uploads/2019/05/aladdin-movie-banner-disney-WEB.jpg" alt="Disney's Remake of Aladdin" style="width:500px;height:600px;">
  
 </body> 
